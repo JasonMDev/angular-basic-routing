@@ -1,0 +1,28 @@
+{
+  "name": "angular-basic-routing",
+  "version": "1.0.0",
+  "description": "A basic angular app to demonstrate the use of routing to display various displays based on the URL. ",
+  "main": "server.js",
+  "engines": {
+    "node": "4.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonMDev/angular-basic-routing.git"
+  },
+  "keywords": [
+    "angular",
+    "routing"
+  ],
+  "author": "Jason Mans",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "npm": "^3.10.7"
+  }
+}
